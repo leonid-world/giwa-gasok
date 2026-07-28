@@ -1,4 +1,4 @@
-# 🚀 기왕 하는 거 가속 (Giwa-Accel)
+# 기왕 하는 거 가속
 > **GIWA 체인 기반 매출채권(RWA) 토큰화 및 즉시 유동화 프로토콜**
 
 ![GIWA Chain](https://img.shields.io/badge/Chain-GIWA%20Chain-blue?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 **"기업의 자금 순환을 '가속'합니다."**
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚨 Problem: 묶여있는 돈, 느린 정산
+## Problem: 묶여있는 돈, 느린 정산
 
 1. **기나긴 대금 정산 주기 (Payment Delay)**
    - B2B 거래 후 대금 수령까지 **평균 30일 ~ 90일 소요**
@@ -31,7 +31,7 @@
 
 ---
 
-## 💡 Solution: GIWA 기반 매출채권 토큰화 (RWA)
+## Solution: GIWA 기반 매출채권 토큰화 (RWA)
 
 우리는 GIWA 체인의 빠른 속도와 저렴한 수수료를 활용해 **매출채권 할인 정산 프로세스를 완전 온체인화**합니다.
 
