@@ -1,4 +1,4 @@
-# 기왕 하는 거 가속
+# 기왕 하는 거 가속 Pitch Deck
 > **GIWA 체인 기반 매출채권(RWA) 토큰화 및 즉시 유동화 프로토콜**
 
 ![GIWA Chain](https://img.shields.io/badge/Chain-GIWA%20Chain-blue?style=for-the-badge)
